@@ -177,7 +177,8 @@ en:
         username: Username
       title: Manage Users
   add_to_google_calendar: "Add to Google Calendar"
-  bigbluebutton: BigBlueButton
+  bigbluebutton: LeoStart
+  #bigbluebutton: BigBlueButton
   bigbluebutton_exception: Oops, there was an error when starting the meeting!
   cancel: Cancel
   cookies:
@@ -276,7 +277,7 @@ en:
     search:
       start: Start searching...
   landing:
-    about: "%{href} is a simple front-end for your BigBlueButton open-source web conferencing server. You can create your own rooms to host sessions, or join others using a short and convenient link."
+    about: "%{href} Leostart is a simple front-end here you can create your own rooms to host sessions, or join others using a short and convenient link."
     welcome: Welcome to LeoStart Technology.
     video: Watch our tutorial on using LeoStart
     upgrade: Show me how to upgrade to 2.0!
